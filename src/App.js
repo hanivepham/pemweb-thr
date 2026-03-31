@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 // Import komponen profil dari folder pages
 import HanifProfile from "./pages/hanif";
 import AhmadProfile from "./pages/ahmad";
+import AkmalProfile from "./pages /akmal";
 
 function App() {
   return (
