@@ -14,7 +14,7 @@ const Profile = () => {
                     className="w-40 h-40 object-cover rounded-full mx-auto border-4 border-white"
                 />
 
-                <h2 className="text-2xl font-bold mt-4">Moch Lutfi Hanif Arrozak</h2>
+                <h2 className="text-2xl font-bold mt-4">Akmal Cahya Pamungkas</h2>
                 <p className="opacity-80 text-lg">Teknologi Informasi</p>
 
                 <p className="opacity-70 text-sm mt-1 border-b border-white/20 pb-3">
@@ -22,7 +22,7 @@ const Profile = () => {
                 </p>
 
                 <p className="mt-4 text-sm leading-relaxed text-justify">
-                    Saya merupakan mahasiswa Teknologi Informasi di Universitas Brawijaya dengan latar belakang Rekayasa Perangkat Lunak. Saya memiliki minat besar dalam bidang pemrograman, pengembangan aplikasi, serta sistem informasi. Saya telah mengerjakan berbagai proyek seperti aplikasi mobile berbasis API, aplikasi web menggunakan Laravel, dan aplikasi kalkulator dengan Python Kivy. Selain itu, saya juga memiliki pengalaman magang sebagai desain dan web developer. Dikenal sebagai pribadi yang teliti, bertanggung jawab, dan cepat belajar, saya mampu bekerja secara individu maupun dalam tim untuk menyelesaikan berbagai permasalahan teknis secara efektif dan efisien. Di luar waktu kuliah, saya sering menghabiskan waktu luang dengan bermain eFootball untuk mengasah strategi, serta memainkan Grand Theft Auto: San Andreas untuk sekadar bernostalgia dengan game klasik.
+                    Saya adalah mahasiswa Teknologi Informasi di Universitas Brawijaya yang memiliki minat pada pemrograman, pengembangan web, dan sistem informasi. Dengan latar belakang Rekayasa Perangkat Lunak, saya terbiasa mempelajari teknologi baru dan menyelesaikan masalah secara terstruktur. Saya pernah mengerjakan proyek aplikasi mobile berbasis API, website dengan Laravel, serta aplikasi sederhana menggunakan Python Kivy. Selain itu, saya memiliki pengalaman magang sebagai desainer dan web developer. Saya dikenal teliti, bertanggung jawab, dan mudah beradaptasi, baik saat bekerja mandiri maupun dalam tim. Di waktu luang, saya senang bermain eFootball dan menikmati game klasik untuk hiburan sekaligus melepas penat setelah rutinitas perkuliahan yang padat hampir setiap harinya.
                 </p>
 
             </div>
