@@ -1,20 +1,33 @@
-
-
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 
-// Ini cara manggil file profil lu yang tadi dibikin
+// Import komponen profil dari folder pages
 import HanifProfile from "./pages/hanif";
+import AhmadProfile from "./pages/ahmad";
 
 function App() {
   return (
     <Router>
       <Routes>
-        {/* URL /hanif bakal nampilin desain dari hanif.jsx */}
+        {/* Halaman Utama (Opsional, biar gak kosong saat buka localhost:3000) */}
+        <Route path="/" element={
+          <div style={{ textAlign: 'center', marginTop: '50px' }}>
+            <h1>Project Pemweb THR</h1>
+            <p>Pilih profil mahasiswa:</p>
+            <nav>
+              <Link to="/hanif">Profil Hanif</Link> | <Link to="/ahmad">Profil Ahmad</Link>
+            </nav>
+          </div>
+        } />
+
+        {/* Rute untuk profil Hanif */}
         <Route path="/hanif" element={<HanifProfile />} />
 
-        {/* Nanti kalau temen lu udah ngerjain, tambahin rutenya di bawah sini */}
-        {/* <Route path="/nama-temen" element={<ProfileTemen />} /> */}
+        {/* Rute untuk profil Ahmad */}
+        <Route path="/ahmad" element={<AhmadProfile />} />
+
+        {/* Tambahkan rute teman lain di bawah ini jika sudah ada filenya */}
+        {/* <Route path="/nama-teman" element={<NamaKomponen />} /> */}
       </Routes>
     </Router>
   );
