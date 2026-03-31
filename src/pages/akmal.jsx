@@ -1,6 +1,6 @@
 import React from "react";
 
-import fotoProfil from "../assets/foto-gua.jpg";
+import fotoProfil from "../assets/my foto gua.jpg";
 
 const Profile = () => {
     return (
