@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 // Import komponen profil dari folder pages
 import HanifProfile from "./pages/hanif";
 import AhmadProfile from "./pages/ahmad";
-import AkmalProfile from "./pages /akmal";
+import AkmalProfile from "./pages/akmal";
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
             <h1>Project Pemweb THR</h1>
             <p>Pilih profil mahasiswa:</p>
             <nav>
-              <Link to="/hanif">Profil Hanif</Link> | <Link to="/ahmad">Profil Ahmad</Link>
+              <Link to="/hanif">Profil Hanif</Link> | <Link to="/ahmad">Profil Ahmad</Link> | <Link to="/akmal">Profil Akmal</Link>
             </nav>
           </div>
         } />
@@ -26,6 +26,9 @@ function App() {
 
         {/* Rute untuk profil Ahmad */}
         <Route path="/ahmad" element={<AhmadProfile />} />
+
+        {/* Rute untuk profil Akmal */}
+        <Route path="/akmal" element={<AkmalProfile />} />
 
         {/* Tambahkan rute teman lain di bawah ini jika sudah ada filenya */}
         {/* <Route path="/nama-teman" element={<NamaKomponen />} /> */}
