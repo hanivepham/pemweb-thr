@@ -1,5 +1,7 @@
 import React from "react";
 
+import fotoProfil from "../assets/My Face.png";
+
 const Profile = () => {
     return (
         <div className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-700 flex items-center justify-center text-white">
@@ -7,7 +9,7 @@ const Profile = () => {
             <div className="bg-white/10 backdrop-blur-lg p-8 rounded-2xl shadow-xl max-w-md text-center">
 
                 <img
-                    src="My face.png" 
+                    src={fotoProfil}
                     alt="Foto Profil Muhammad Nur Ramadhani"
                     className="w-40 h-40 object-cover rounded-full mx-auto border-4 border-white"
                 />
