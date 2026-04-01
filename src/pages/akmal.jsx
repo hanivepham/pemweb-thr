@@ -22,7 +22,7 @@ const Profile = () => {
                 </p>
 
                 <p className="mt-4 text-sm leading-relaxed text-justify">
-                    Halo! Saya Akmal Cahya Pamungkas, mahasiswa semester 2 Program Studi Teknologi Informasi, Fakultas Vokasi, Universitas Brawijaya angkatan 2026. Perjalanan teknologi saya dimulai sebagai lulusan Teknik Komputer dan Jaringan (TKJ) dari SMK Negeri 2 Malang, yang membekali saya dengan pemahaman kuat mengenai infrastruktur jaringan dan sistem komputer. Saat ini, saya fokus mendalami pengembangan perangkat lunak, khususnya pemrograman web menggunakan PHP dan React, serta aktif mengeksplorasi bidang keamanan siber. Selain akademik, saya juga berkontribusi dalam organisasi BEM Vokasi UB di departemen Advokesma. Dengan kombinasi latar belakang teknis dan semangat inovasi, saya berdedikasi menciptakan solusi digital yang fungsional, aman, dan berdampak positif bagi masyarakat.
+                    Halo! Saya Akmal Cahya Pamungkas, mahasiswa semester 2 Program Studi Teknologi Informasi, Fakultas Vokasi, Universitas Brawijaya angkatan 2025. Perjalanan teknologi saya dimulai sebagai lulusan Teknik Komputer dan Jaringan (TKJ) dari SMK Negeri 2 Malang, yang membekali saya dengan pemahaman kuat mengenai infrastruktur jaringan dan sistem komputer. Saat ini, saya fokus mendalami pengembangan perangkat lunak, khususnya pemrograman web menggunakan PHP dan React, serta aktif mengeksplorasi bidang jaringan. Selain akademik, saya juga berkontribusi dalam organisasi BEM Vokasi UB di departemen Advokesma. Dengan kombinasi latar belakang teknis dan semangat inovasi, saya berdedikasi menciptakan solusi digital yang fungsional, aman, dan berdampak positif bagi masyarakat.
                 </p>
 
             </div>
