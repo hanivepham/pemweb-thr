@@ -22,7 +22,7 @@ const Profile = () => {
                 </p>
 
                 <p className="mt-4 text-sm leading-relaxed text-justify">
-                    Saya merupakan mahasiswa Teknologi Informasi di Universitas Brawijaya dengan latar belakang Rekayasa Perangkat Lunak. Saya memiliki minat besar dalam bidang pemrograman, pengembangan aplikasi, serta sistem informasi. Saya telah mengerjakan berbagai proyek seperti aplikasi mobile berbasis API, aplikasi web menggunakan Laravel, dan aplikasi kalkulator dengan Python Kivy. Selain itu, saya juga memiliki pengalaman magang sebagai desain dan web developer. Dikenal sebagai pribadi yang teliti, bertanggung jawab, dan cepat belajar, saya mampu bekerja secara individu maupun dalam tim untuk menyelesaikan berbagai permasalahan teknis secara efektif dan efisien. Di luar waktu kuliah, saya sering menghabiskan waktu luang dengan bermain eFootball untuk mengasah strategi, serta memainkan Grand Theft Auto: San Andreas untuk sekadar bernostalgia dengan game klasik.
+                    Lulusan SMK Teknik Komputer dan Jaringan (TKJ) yang kini menempuh pendidikan D3 Teknologi Informasi untuk memperdalam keahlian teknis dan manajerial di dunia digital. Memiliki fondasi kuat dalam instalasi perangkat keras, konfigurasi sistem operasi, serta pengelolaan infrastruktur jaringan dasar yang didapat selama masa sekolah menengah. Kombinasi keterampilan praktis lapangan dan pemahaman teoritis mendalam membentuk profil profesional yang adaptif, inovatif, dan siap menghadapi tantangan industri. Berkomitmen penuh untuk bertransformasi menjadi tenaga ahli kompeten yang mampu menghadirkan solusi teknologi relevan bagi kebutuhan masa depan yang dinamis.
                 </p>
 
             </div>
